@@ -1,0 +1,26 @@
+
+__New Things__
+```diff
++ Invite Manager [set welcome and leave channel, set welcome and leave msg]
+ophelp invite-manager
++ Button Roles
+ophelp button-roles
++ Tickets [Buttons]
+ophelp tickets
++ Changelog Command [See what are the recent updates]
+opchangelog
++ Brzzers cmd
+opbrazzers
+```
+__Removed__
+```diff
+- Nothing
+```
+__Future Plans__
+```asciidoc
+= DropDown Menu Roles[BETA]*
+= Invite Manager Improvements
+= More Modertion Commands[Related to VC management]
+= YouTube Channel Notifications
+```
+**[BETA] Means commands only for premium Guilds*

@@ -1,0 +1,9 @@
+{ 
+  "prefix": "op",
+  "everyoneMention": false,
+  "hostedBy": true,
+   "join": "welcome [user] invited by ([inviter]) => inviter invites: [invites]",
+   "leave": "[user] left the guild invited by ([inviter])",
+   "unkown": "[user] has joined , but i can't figure out who invited him.",
+   "unkownleave": "[user] has left, but i can't figure out who invited him"
+}
